@@ -1,8 +1,11 @@
 /* color backroung */
 
 $color: #3D3D3D;
+$background-color: #6D6D6D;
+
 body{
-$background-color: #6D6D6D; 
+background-color: $background-color; 
+color: $color;
 }
 p {
     color: $color; 
