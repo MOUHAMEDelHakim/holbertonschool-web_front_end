@@ -5,4 +5,6 @@ body{
 $background-color: #6D6D6D; 
 }
 p {
-    color: $color; }
+    color: $color; 
+    background-color:$background-color
+}
